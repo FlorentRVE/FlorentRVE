@@ -7,9 +7,13 @@
 🌴 Bonjour, je suis Florent, développeur basé à l'île de la réunion.
 
 👨‍💻 Ancien militaire reconvertie dans le web, j'explore le back-end des choses.
+<br>
+<br>
+<br>
 
-### Technos
-
+```html
+< Technos />
+```
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
@@ -17,14 +21,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
-
-  
   
 </div>
+<br>
+<br>
+<br>
 
 
-### Outils
 
+```html
+< Outils />
+```
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="composer" alt="composer" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
@@ -34,26 +41,31 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
-
- 
-  
   
 </div>
+<br>
+<br>
+<br>
 
-### En cours d'apprentissage
 
+
+```html
+< Apprentissage />
+```
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
     <img src="https://img.shields.io/badge/Symfony-grey?style=for-the-badgee" alt="LinkedIn Badge"/>
   
 </div>
+<br>
+<br>
+<br>
 
 
 
-
-
-### Me joindre
-
+```html
+< Contact />
+```
 <div id="badges">
   
   <a href="your-linkedin-URL">
@@ -63,7 +75,10 @@
     <img src="https://img.shields.io/badge/-website-success?style=for-the-badge&logo=AngelList" alt="Website Badge"/>
   </a>
     <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
 </div>
+<br>
+<br>
+<br>
