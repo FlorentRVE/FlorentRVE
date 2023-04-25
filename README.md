@@ -6,7 +6,7 @@
 
 🌴 Bonjour, je suis Florent, développeur basé à l'île de la réunion.
 
-👨‍💻 Ancien militaire reconvertie dans le web, j'explore le back-end des choses.
+👨‍💻 Ancien militaire reconvertie dans le web, j'explore le front-end des choses.
 <br>
 <br>
 <br>
@@ -53,8 +53,7 @@
 < Apprentissage />
 ```
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
-    <img src="https://img.shields.io/badge/Symfony-grey?style=for-the-badgee" alt="LinkedIn Badge"/>
+    
   
 </div>
 <br>
