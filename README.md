@@ -53,6 +53,8 @@
 < Apprentissage />
 ```
 <div>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
     
   
 </div>
