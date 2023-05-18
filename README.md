@@ -6,7 +6,7 @@
 
 🌴 Bonjour, je suis Florent, développeur basé à l'île de la réunion.
 
-👨‍💻 Ancien militaire reconvertie dans le web, j'explore le front-end des choses.
+👨‍💻 Ancien militaire reconvertie dans le développement.
 <br>
 <br>
 <br>
