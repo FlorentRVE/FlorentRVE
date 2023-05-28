@@ -4,9 +4,9 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/NE353aasvIpC7u6aHv/giphy.gif" width="30"> Développeur rookie <img src="https://media.giphy.com/media/NE353aasvIpC7u6aHv/giphy.gif" width="30"></h1>
 
-🌴 Bonjour, je suis Florent, développeur basé à l'île de la réunion.
+🌴 Bonjour, je suis Florent, basé à l'île de la réunion. Retrouvez ici mes projets en développement.
 
-👨‍💻 Ancien militaire reconvertie dans le développement.
+👨‍💻 Ancien militaire reconvertie dans l'informatique.
 <br>
 <br>
 <br>
