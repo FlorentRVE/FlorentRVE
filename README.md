@@ -52,7 +52,7 @@
 ```html
 < Apprentissage />
 ```
-<div style = "background-color: #ff6600;">
+<div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" title="symfony" alt="symfony" width="40" height="40"/>&nbsp;
