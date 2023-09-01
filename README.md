@@ -6,7 +6,7 @@
 
 🌴 Bonjour, je suis Florent, basé à l'île de la réunion. Retrouvez ici mes projets en développement.
 
-👨‍💻 Ancien militaire reconvertie dans l'informatique.
+👨‍💻 Ancien militaire reconverti dans l'informatique. Mon objectif est de me spécialiser en Backend et plus spécifiquement PHP avec le framework Symfony.
 <br>
 <br>
 <br>
@@ -21,6 +21,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" title="symfony" alt="symfony" width="40" height="40"/>&nbsp;
   
 </div>
 <br>
@@ -45,25 +47,6 @@
 </div>
 <br>
 <br>
-<br>
-
-
-
-```html
-< Apprentissage />
-```
-<div>
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" title="symfony" alt="symfony" width="40" height="40"/>&nbsp;
-    
-  
-</div>
-<br>
-<br>
-<br>
-
-
 
 ```html
 < Contact />
