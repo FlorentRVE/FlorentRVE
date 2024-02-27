@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="300"/>
 </div>
 
-<h1 align="center"><img src="https://media.giphy.com/media/NE353aasvIpC7u6aHv/giphy.gif" width="30"> Développeur en apprentissage <img src="https://media.giphy.com/media/NE353aasvIpC7u6aHv/giphy.gif" width="30"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/NE353aasvIpC7u6aHv/giphy.gif" width="30"> Développeur orienté Backend <img src="https://media.giphy.com/media/NE353aasvIpC7u6aHv/giphy.gif" width="30"></h1>
 
 🌴 Bonjour, je suis Florent, basé à l'île de la réunion. Retrouvez ici mes projets en développement.
 
