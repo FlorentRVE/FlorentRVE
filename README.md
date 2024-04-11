@@ -2,12 +2,13 @@
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="300"/>
 </div>
 
-<h1 align="center"><img src="https://media.giphy.com/media/NE353aasvIpC7u6aHv/giphy.gif" width="30"> Développeur orienté Backend <img src="https://media.giphy.com/media/NE353aasvIpC7u6aHv/giphy.gif" width="30"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/NE353aasvIpC7u6aHv/giphy.gif" width="30"> Concepteur développeur d'application Web <img src="https://media.giphy.com/media/NE353aasvIpC7u6aHv/giphy.gif" width="30"></h1>
+
+<br>
+<br>
 
 🌴 Bonjour, je suis Florent, basé à l'île de la réunion. Retrouvez ici mes projets en développement.
 
-👨‍💻 Ancien militaire reconverti dans l'informatique. Mon objectif est de me spécialiser en Backend et plus spécifiquement PHP avec le framework Symfony.
-<br>
 <br>
 <br>
 
