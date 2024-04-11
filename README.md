@@ -7,7 +7,7 @@
 <br>
 <br>
 
-🌴 Bonjour, je suis Florent, basé à l'île de la réunion. Retrouvez ici mes projets en développement.
+🌴 Bienvenue sur mon profil ! Je suis Florent, basé à l'île de la réunion. Retrouvez ici mes projets en développement.
 
 <br>
 <br>
