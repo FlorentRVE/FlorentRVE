@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="/me.png" width="300"/>
-</div>
+
 
 <h1 align="center"><img src="https://media.giphy.com/media/NE353aasvIpC7u6aHv/giphy.gif" width="30"> Concepteur développeur d'application Web <img src="https://media.giphy.com/media/NE353aasvIpC7u6aHv/giphy.gif" width="30"></h1>
 
