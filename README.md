@@ -40,7 +40,6 @@
 < Outils />
 ```
 ![NPM](https://img.shields.io/badge/NPM-E34F26?style=for-the-badge)
-![STRIPE](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 ![WORDPRESS](https://img.shields.io/badge/WORDPRESS-777BB4?style=for-the-badge)
 ![VSCODE](https://img.shields.io/badge/VSCODE-276DC3?style=for-the-badge)
 ![SHELL](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
