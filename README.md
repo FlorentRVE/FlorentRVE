@@ -40,9 +40,14 @@
 < Outils />
 ```
 ![NPM](https://img.shields.io/badge/NPM-E34F26?style=for-the-badge)
-![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-1572B6?style=for-the-badge)
 ![STRIPE](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 ![WORDPRESS](https://img.shields.io/badge/WORDPRESS-777BB4?style=for-the-badge)
+![VSCODE](https://img.shields.io/badge/VSCODE-276DC3?style=for-the-badge)
+![SHELL](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![CANVA](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![AFTEREFFECT](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
+![PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 <br>
 <br>
