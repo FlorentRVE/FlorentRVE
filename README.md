@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/NE353aasvIpC7u6aHv/giphy.gif" width="30"> Mes projets <img src="https://media.giphy.com/media/NE353aasvIpC7u6aHv/giphy.gif" width="30"></h1>
+<h1 align="center">🌊 Mes projets 🌊</h1>
 
 <br>
 <br>
